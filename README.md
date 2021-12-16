@@ -1,4 +1,5 @@
 # knowledge
+Feel free to [contribute](#contribute) by adding stuff!
 - [ML buildling blocks](#blocks)
 - [Useful resources](#resources)
 - [Useful GitHubs](#githubs)
@@ -35,3 +36,14 @@
 ## Scratch
 > Any other resources that I find useful or interesting.
 - [libgen](http://libgen.rs)
+
+## Contribute
+
+1. Fork the repository to have your own one
+2. Make the contributions you want in a file or folder
+3. Git `add`, `commit` and `push` to your forked repo
+> GitHub will now inform you that your branch is 1 commit ahead of this repo
+4. Click on `Contribute`, then `Open pull request`
+5. Create pull request by clicking on the confirmation button
+6. You're done
+> Note that you can repeat this procedure from step (2) as many times as you like
